@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from 'react';
 import * as tmImage from '@teachablemachine/image';
 
+import MutedText from './MutedText';
 import Spinner from './Spinner';
 
 export default function GameSection() {
@@ -121,8 +122,10 @@ export default function GameSection() {
 
   return (
     <section className="d-flex align-items-center" style={{ height: '80vh' }}>
-      {roundState.result}
       <div className="container text-center">
+        <MutedText
+          text="Rest assured. The video is only used in your local browser."
+        />
         <div className="card">
           <h5 className="card-header">
             You
