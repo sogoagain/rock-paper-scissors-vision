@@ -1,6 +1,6 @@
 [![HitCount](http://hits.dwyl.com/sogoagain/rock-paper-scissors-vision.svg)](http://hits.dwyl.com/sogoagain/rock-paper-scissors-vision)
 
-# [기계학습을 활용한 이미지 인식 가위바위보 게임](https://game-rps.sogoagain.com/)
+# [기계학습을 활용한 영상 인식 가위바위보 게임](https://game-rps.sogoagain.com/)
 
 ## 접속 URL
 
